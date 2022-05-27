@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LastChallenger
-- 🌱 I’m currently learning C / C++, a student learning in central south university.
-- 📫 How to reach me    PLZ send email to fydworks@163.com
+- 🌱 I’m currently learning NN, a student learning in central south university.
+- 📫 How to reach me  PLZ send email to fydworks@163.com
 
 
 <!---
